@@ -1,78 +1,67 @@
-BridgeLabz SIPP Training Projects
+🌉 BridgeLabz SIPP Java Training
+Welcome to the official repository for my BridgeLabz SIPP (Summer Immersion Placement Program) Java Training. This repository documents my week-wise learning journey in Java, including Core Java, OOPs, DSA, and practical workshops.
 
-This repository contains various Java programming examples and problem solutions developed during the BridgeLabz SIPP Training.
+📌 Status: Running
 
+📁 Repository Structure
+This repository is organized by branches, each representing a week of focused learning.
 
+Branch Name	Description
+CoreJava	Covers basic Java syntax, control structures, arrays, strings, and I/O.
+OOPS	Focuses on object-oriented programming concepts like classes, inheritance.
+DSA	Implementation of basic data structures (Stack, Queue, LinkedList, etc).
+GenericsCollections	Implementation and problems of Generics and Collections Framework in Java.
+main	Final clean code merged from all branches.
+🚀 Tech Stack
+Java (Core, OOPs, DSA,AdvanceDSA, Generics, Collections, Exception Handling, I/O)
+Git & GitHub – Version Control
+eclips IDE / IntelliJ IDEA – Development Environment
+📌 Weekly Breakdown
+🔹 Week 1 – Core Java
+Variables & Data Types
+Control Statements
+Loops, Arrays, Strings
+Exception Handling, I/O
+📂 Branch: CoreJava
 
-Java Inheritance Examples
+🔹 Week 2 – Object-Oriented Programming
+Classes & Objects
+Inheritance, Polymorphism
+Abstraction & Interfaces
+Encapsulation, Constructors
+📂 Branch: OOPS
 
-This section includes examples demonstrating different types of inheritance in Java:
+🔹 Week 3 – Data Structures & Algorithms
+Arrays, LinkedLists
+Stacks, Queues
+Searching, Sorting
+Time & Space Complexity
+📂 Branch: DSA
 
+🔹 Week 5 – Generics & Collections
+Java Generics
+Collections Framework
+List, Set, Map Implementations
+Custom Generic Classes
+📂 Branch: GenericsAndCollections
 
+🔹 Week 6 – Advanced Data Structures & Algorithms
+Trees & Graphs
+Advanced Sorting Algorithms
+Dynamic Programming
+Problem Solving Techniques
+📂 Branch: AdvanceDSA
 
-SchoolSystemRoles.java: Demonstrates single inheritance with Person, Teacher, Student, and Staff classes.
+🧠 Learning Outcomes
+Solid foundation in Java Programming
+Practical experience in OOPs & DSA
+Mastery in using Git & GitHub
+Exposure to Team Projects & Collaboration
+👨‍💻 Author
+Tanuj Sharma
 
-RestaurantManagement.java: Demonstrates multilevel inheritance with Person, Employee, Chef, and Waiter classes.
-
-VehicleManagement.java: Demonstrates hierarchical inheritance with Vehicle, ElectricVehicle, and PetrolVehicle classes.
-
-AnimalHierarchy.java: Demonstrates polymorphism and inheritance with Animal, Dog, Cat, and Bird classes.
-
-EmployeeManagementSystem.java: Demonstrates inheritance with Employee, Manager, Developer, and Intern classes.
-
-VehicleTransportSystem.java: Demonstrates inheritance with Vehicle, Car, Truck, and Motorcycle classes.
-
-Each file contains a main method for independent execution and demonstration of the concepts.
-
-
-
-Linked List Examples
-
-This section contains various linked list implementations for different problem statements:
-
-
-
-Singly Linked List
-
-StudentRecordManagement.java: Implements a Student Record Management system.
-
-InventoryManagementSystem.java: Implements an Inventory Management System.
-
-SocialMediaFriendConnections.java: Implements a Social Media Friend Connections system.
-
-Doubly Linked List
-
-MovieManagementSystem.java: Implements a Movie Management System.
-
-LibraryManagementSystem.java: Implements a Library Management System.
-
-TextEditorUndoRedo.java: Implements Undo/Redo functionality for a text editor.
-
-Circular Linked List
-
-TaskScheduler.java: Implements a Task Scheduler.
-
-RoundRobinScheduling.java: Implements a Round Robin Scheduling Algorithm.
-
-OnlineTicketReservationSystem.java: Implements an Online Ticket Reservation System.
-
-Each linked list implementation includes a main method for user interaction and demonstration of its functionalities.
-
-
-
-Other Branches
-
-This repository also contains code related to the following branches:
-
-
-
-
-
-CoreJava: Core Java concepts and programming.
-
-DSA: Data Structures and Algorithms.
-
-OOPS: Object-Oriented Programming concepts.
-
-WorkShop: Various workshop projects and exercises.
-
+LinkedIn
+GitHub
+📧 ta904513@gmail.com
+⭐ Show Your Support
+If you found this helpful or inspiring, please ⭐ the repo and share your feedback!
