@@ -15,6 +15,8 @@ This repository is organized by branches, each representing a week of focused le
 | `OOPS`                | Focuses on object-oriented programming concepts like classes, inheritance.  |
 | `DSA`                 | Implementation of basic data structures (Stack, Queue, LinkedList, etc).    |
 | `GenericsCollections` | Implementation and problems of Generics and Collections Framework in Java.               |
+| `Java8features`             | Focuses on new features introduced in Java 8, including Lambda Expressions, Stream API, and Functional Interfaces. |
+| `PseudoCode`                | Contains pseudo-code solutions for various programming problems . |
 | `main`                      | Final clean code merged from all branches.                                  |
 
 ---
@@ -75,7 +77,29 @@ This repository is organized by branches, each representing a week of focused le
 - Dynamic Programming
 - Problem Solving Techniques
 
-📂 Branch: [`AdvanceDSA`](https://github.com/Tanujxsharma/BridgeLabz-SIPP-Training/tree/DSA)
+📂 Branch: [`AdvanceDSA`](https://github.com/Tanujxsharma/BridgeLabz-SIPP-Training/tree/AdvanceDSA)
+
+---
+
+### 🔹 Week 7 – Java 8 Features
+- Lambda Expressions
+- Stream API
+- Functional Interfaces
+- Date and Time API
+
+📂 Branch: [`Java8features`](https://github.com/Tanujxsharma/BridgeLabz-SIPP-Training/tree/Java8features)
+
+---
+
+### 🔹 Week 8 – Pseudo-Code Solutions
+- Online Exam Portal
+- Parking Lot Ticketing System
+- Bus Route Navigator
+- Attendance Marker
+- Simple Word Counter
+- Online Survey Report Generator
+
+📂 Branch: [`PseudoCode`](https://github.com/Tanujxsharma/BridgeLabz-SIPP-Training/tree/PseudoCode)
 
 ---
 
