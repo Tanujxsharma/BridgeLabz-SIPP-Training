@@ -2,7 +2,7 @@
 
 Welcome to the official repository for my **BridgeLabz SIPP (Summer Immersion Placement Program) Java Training**. This repository documents my week-wise learning journey in Java, including Core Java, OOPs, DSA, and practical workshops.
 
-> 📌 **Status**: Running
+> 📌 **Status**: Completed 
 
 ---
 
